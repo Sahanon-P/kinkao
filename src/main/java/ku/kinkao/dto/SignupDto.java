@@ -7,6 +7,8 @@ import javax.validation.constraints.Pattern;
 import javax.validation.constraints.NotBlank;
 import javax.validation.constraints.Size;
 
+import ku.kinkao.validation.ValidPassword;
+
 @Data
 public class SignupDto {
 
